@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @Myhris-JS
-- 🌱 I’m currently learning python, flask, HTML, CSS, JavaScript while also making my own game as a side project!
+- 🌱 I’m currently learning:
+      - Python, Flask
+      - HTML, CSS, JavaScript
+      - C# (along with C/C++)
 - 😄 Pronouns: he/him
 
 <!---
