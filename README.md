@@ -1,7 +1,7 @@
-- 👋 Hi, I’m *@Myhris-JS* !
+- 👋 Hi, I’m *@myhrisphere* !
 - 🌱 I’m currently learning:
     - Python, Flask
-    - C# (along with C/C++)
+    - C#
     - HTML, CSS, JavaScript
 - 😄 Pronouns: He/him
 <!---
